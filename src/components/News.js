@@ -18,7 +18,7 @@ export class News extends Component {
     }
     async updateNews(){        
       this.setState({loading:true})
-      fetch(`https://newsapi.org/v2/top-headlines?country=in&category=${this.props.category}&apiKey=e5f7831ec86a4936a36c62d18665c376&page=${this.state.pageno}`)
+      fetch(`https://newsapi.org/v2/top-headlines?country=in&category=${this.props.category}&apiKey=${YOUR_API_KEY}&page=${this.state.pageno}`)
       .then((response) => response.json())
       .then(pdata => {
         this.setState({ 
@@ -31,7 +31,7 @@ export class News extends Component {
     }
     async componentDidMount(){
         this.setState({loading:true})
-        fetch(`https://newsapi.org/v2/top-headlines?country=in&category=${this.props.category}&apiKey=e5f7831ec86a4936a36c62d18665c376`)
+        fetch(`https://newsapi.org/v2/top-headlines?country=in&category=${this.props.category}&apiKey=${YOUR_API_KEY}`)
         .then((response)=>response.json())
         .then(pdata=> {
             this.setState(
@@ -55,7 +55,7 @@ export class News extends Component {
     // }
     fetchMoreData =async ()=>{
     await this.setState({pageno:this.state.pageno+1});
-     fetch(`https://newsapi.org/v2/top-headlines?country=in&category=${this.props.category}&apiKey=e5f7831ec86a4936a36c62d18665c376&pageSize=${this.state.pagesize}`)
+     fetch(`https://newsapi.org/v2/top-headlines?country=in&category=${this.props.category}&apiKey=${YOUR_API_KEY}&pageSize=${this.state.pagesize}`)
       .then((response)=>response.json())
       .then(pdata=> {
           this.setState(
