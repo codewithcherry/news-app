@@ -1,0 +1,253 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Chicago Tribune"
+            },
+            "author": "LaMond Pope",
+            "title": "Tony La Russa: Chicago White Sox manager out indefinitely - Chicago Tribune",
+            "description": "Chicago White Sox manager Tony La Russa will be out indefinitely as he undergoes further medical testing.",
+            "url": "https://www.chicagotribune.com/sports/white-sox/ct-chicago-white-sox-tony-la-russa-20220831-utupzk43orbdtgxubvjkpvwhc4-story.html",
+            "urlToImage": "https://www.chicagotribune.com/resizer/fALbtn2sBgY212vSV64gx2VsULs=/1200x630/filters:format(jpg):quality(70):focal(965x545:975x555)/cloudfront-us-east-1.images.arcpublishing.com/tronc/F7GCY7BTRVGIFFIBGDI6JCWM2Y.jpg",
+            "publishedAt": "2022-09-01T03:02:00Z",
+            "content": "Right fielder Gavin Sheets had a conversation with manager Tony La Russa during batting practice Tuesday, a couple of hours before the Chicago White Sox played the Kansas City Royals.\r\nLess than an h… [+5098 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Democrat Peltola beats Palin in Alaska special election upset - POLITICO",
+            "description": "The former governor's comeback attempt has fallen short.",
+            "url": "https://www.politico.com/news/2022/08/31/democrat-peltola-beats-palin-in-alaska-special-election-upset-00054428",
+            "urlToImage": "https://static.politico.com/64/66/fc161cb14ae1a7ef6391ca7223c0/220831-mary-peltola-ap.jpg",
+            "publishedAt": "2022-09-01T02:26:18Z",
+            "content": "Defeat for Palin closes the door on an immediate political comeback but she is also on the ballot in Alaskas regularly scheduled congressional election this fall, when the winner will earn a full two… [+2490 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jeremy Herb and Tierney Sneed, CNN",
+            "title": "Trump's attorneys face scrutiny over level of cooperation with Justice Department on classified docs - CNN",
+            "description": "The Justice Department's court filing Tuesday laying out the case that classified documents had been concealed at Mar-a-Lago raises new scrutiny for former President Donald Trump's lawyers who worked with federal investigators to return classified material to…",
+            "url": "https://www.cnn.com/2022/08/31/politics/christina-bobb-evan-corcoran/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220831114321-christina-bobb-evan-corcoran-split-super-tease.jpg",
+            "publishedAt": "2022-09-01T02:26:00Z",
+            "content": "(CNN)The Justice Department's court filing Tuesday laying out the case that classified documents had been concealed at Mar-a-Lago raises new scrutiny for former President Donald Trump's lawyers who w… [+5551 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Samantha Lock",
+            "title": "Russia-Ukraine war latest: what we know on day 190 of the invasion - The Guardian",
+            "description": "Ukraine’s Kherson counteroffensive has not stalled or failed, Zelenskiy adviser says; uncertainty around UN nuclear watchdog visit to Zaporizhzhia",
+            "url": "https://amp.theguardian.com/world/2022/sep/01/russia-ukraine-war-latest-what-we-know-on-day-190-of-the-invasion",
+            "urlToImage": null,
+            "publishedAt": "2022-09-01T01:04:00Z",
+            "content": "<li>Volodymyr Zelenskiy addressed the Venice film festivaldescribing Russias war on Ukraine as a primitive plot in three acts for the world to make three dramatic mistakes: to get used to the war, to… [+2331 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Michael Goldberg",
+            "title": "Jackson water crisis forces residents to find alternatives - The Associated Press",
+            "description": "JACKSON, Miss. (AP) — The water pressure at James Brown’s home in Jackson was so low the faucets barely dripped. He couldn’t cook. He couldn’t bathe. But he still had to work. The 73-year-old tree-cutter hauled bags of ice into his truck at a gas station on h…",
+            "url": "https://apnews.com/article/floods-mississippi-jackson-e926f9faca6230777a4227b50f89e93a",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/85c482b2074d442889459125c608b7c4/3000.jpeg",
+            "publishedAt": "2022-09-01T00:51:37Z",
+            "content": "JACKSON, Miss. (AP) The water pressure at James Browns home in Jackson was so low the faucets barely dripped. He couldnt cook. He couldnt bathe. But he still had to work.\r\nThe 73-year-old tree-cutter… [+6027 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Adam Sabes, Bill Melugin",
+            "title": "Texas sends buses of migrants to Chicago for first time, dropped off at train station - Fox News",
+            "description": "Texas officials sent buses carrying migrants to Chicago on Wednesday night, both arrived around 7:30 p.m., adding to Democrat cities selected for drop-off locations.",
+            "url": "https://www.foxnews.com/politics/texas-sends-buses-migrants-arrive-chicago-first-time-dropped-train-station",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/08/migrant4.png",
+            "publishedAt": "2022-09-01T00:38:00Z",
+            "content": "Two buses carrying migrants from Texas arrived in Chicago on Wednesday night.\r\nThe buses arrived at Chicago's Union Station at around 7:30 p.m., carrying migrants who crossed the southern border ille… [+4289 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "\"A truckers worst nightmare\": Castaic fire causes huge traffic issues on the 5 freeway - CBS Los Angeles",
+            "description": "Sky9 was above the 5 in Castaic where miles of cars and trucks are inching along",
+            "url": "https://www.youtube.com/watch?v=TeeSCILd-BE",
+            "urlToImage": "https://i.ytimg.com/vi/TeeSCILd-BE/hqdefault.jpg",
+            "publishedAt": "2022-08-31T23:57:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Claire Jackson",
+            "title": "Tencent, Sony Throw Big Money At Elden Ring Maker FromSoftware - Kotaku",
+            "description": "The deal grants the Dark Souls and Bloodborne developer a boatload of cash to pursue future endeavors",
+            "url": "https://kotaku.com/elden-ring-fromsoftware-acquisition-sony-tencent-dark-s-1849481673",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/dc2840a5e6efa91eb1d02040bc0d6773.jpg",
+            "publishedAt": "2022-08-31T23:55:00Z",
+            "content": "Elden Ring wasnt just a hit with fans of FromSoftwares notoriously difficult action-RPGs. Today Tencent Holdings and Sony announced theyve acquired 30% of the Souls-series developers shares, split in… [+2206 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Alexander Tin",
+            "title": "FDA authorizes updated COVID boosters adapted for Omicron subvariants - CBS News",
+            "description": "The first shots in the Biden administration's fall booster campaign could start in days, after a vote by the CDC's advisers.",
+            "url": "https://www.cbsnews.com/news/covid-vaccine-boosters-omicron-variant-ba4-ba5-fda-cdc/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/08/30/288edb9d-263c-4b5d-92eb-67e1569a98e3/thumbnail/1200x630/47638e999553957633c51bbe0b82870e/pfizer-covid-19-ba4-5-vaccine-vials-2.jpg",
+            "publishedAt": "2022-08-31T23:46:00Z",
+            "content": "The Biden administration's planned fall COVID-19 booster campaign cleared a key regulatory hurdle, after the Food and Drug Administration announced Wednesday it has authorized updated shots adapted f… [+6837 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Christine Idzelis",
+            "title": "Jeremy Grantham warns ‘tragedy’ looms as stock ‘superbubble’ may burst - MarketWatch",
+            "description": "Bear-market rallies are a common feature of ‘superbubbles,’ says legendary investor Jeremy Grantham",
+            "url": "https://www.marketwatch.com/story/prepare-for-an-epic-finale-jeremy-grantham-warns-tragedy-looms-as-superbubble-may-burst-11661988022",
+            "urlToImage": "https://images.mktw.net/im-359642/social",
+            "publishedAt": "2022-08-31T23:20:00Z",
+            "content": "A superbubble appears dangerously near its final act after the recent rally in U.S. stocks lured some investors back into the market just ahead of potential tragedy, according to Jeremy Grantham, the… [+4733 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Claims of torture of China Uyghurs credible - United Nations report - BBC",
+            "description": "China is accused of serious human rights violations in long-awaited report that it tried to stop being published.",
+            "url": "https://www.bbc.com/news/world-asia-62744522",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12FCE/production/_126547777_gettyimages-1152108730.jpg",
+            "publishedAt": "2022-08-31T22:44:11Z",
+            "content": "By Matt MurphyBBC News\r\nThe UN has accused China of \"serious human rights violations\" in a long-awaited report into allegations of abuse in Xinjiang province.\r\nChina had urged the UN not to release t… [+5157 chars]"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Austen Goslin",
+            "title": "House of the Dragon’s Miguel Sapochnik leaving as co-showrunner - Polygon",
+            "description": "House of the Dragon is losing one of its showrunners and directors in Miguel Sapochnik. Ryan Condal will now serve as the series’ solo showrunner while Game of Thrones veteran director Alan Taylor will join the series to replace Sapochnik for season 2, which …",
+            "url": "https://www.polygon.com/23331775/house-of-the-dragon-miguel-sapochnik-leaving-showrunner-alan-taylor",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/l1LPJuriySDO8uGSl8nV_mz4o2Q=/0x42:2100x1141/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/6674489/gotjonheroshot.0.jpg",
+            "publishedAt": "2022-08-31T22:25:30Z",
+            "content": "Miguel Sapochnik, co-showrunner of House of the Dragon and frequent Game of Thrones franchise director, will leave House of the Dragon at the end of season 1. Writer and executive producer Ryan Conda… [+1704 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Lisa Marie Presley Blames Herself 'Every Day' for Son Benjamin's Death - Entertainment Tonight",
+            "description": null,
+            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSRLfRsN7IVE",
+            "urlToImage": null,
+            "publishedAt": "2022-08-31T21:15:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Panthers' Baker Mayfield denies saying 'I'm gonna f--- them up' regarding Browns reunion in Week 1 - CBS Sports",
+            "description": "Mayfield clarified his comments Wednesday",
+            "url": "https://www.cbssports.com/nfl/news/panthers-baker-mayfield-denies-saying-im-gonna-f-them-up-regarding-browns-reunion-in-week-1/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/08/18/59e342c2-875b-4294-baec-99118739cc4c/thumbnail/1200x675/dcc10108635ba8f2c5811b81e8528bbb/template-pic.jpg",
+            "publishedAt": "2022-08-31T20:46:00Z",
+            "content": "Baker Mayfield said this offseason that the Browns \"100 percent\" disrespected him when they reversed commitment to him in favor of Deshaun Watson, the ex-Texans star who's suspended to start 2022. Su… [+2265 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "fox8.com"
+            },
+            "author": "The Associated Press",
+            "title": "Bed Bath & Beyond closing 150 stores, layoffs coming amid struggles - WJW FOX 8 News Cleveland",
+            "description": "Shares of Bed Bath & Beyond lost nearly a quarter of their value Wednesday after the struggling home goods retailer announced a restructuring that includes store closures, layoffs and a possible stock offering.",
+            "url": "https://fox8.com/news/bed-bath-beyond-closing-150-stores-layoffs-coming-amid-struggles/",
+            "urlToImage": "https://fox8.com/wp-content/uploads/sites/12/2022/08/AP22243440336252.jpg?w=1280",
+            "publishedAt": "2022-08-31T20:17:10Z",
+            "content": "NEW YORK (AP) Shares of Bed Bath &amp; Beyond lost nearly a quarter of their value Wednesday after the struggling home goods retailer announced a restructuring that includes store closures, layoffs a… [+2275 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Richard Currie",
+            "title": "Woman forced to sell 4-bed house after crypto exchange wrongly refunded $7.2m - The Register",
+            "description": "Payment from Crypto.com was off by five zeroes because bank account number was mistakenly entered",
+            "url": "https://www.theregister.com/2022/08/31/crypto_dotcom_australia_refund/",
+            "urlToImage": "https://regmedia.co.uk/2017/09/15/shutterstock_cryptocurrencies.jpg",
+            "publishedAt": "2022-08-31T18:47:00Z",
+            "content": "An Australian woman has been sued after she received part of an erroneous refund from a cryptocurrency exchange erroneous by five zeroes that it failed to notice for seven months.\r\nDocuments from the… [+2914 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "María Luisa Paúl",
+            "title": "Death of Soviet Union's last leader, Mikhail Gorbachev, unearths Pizza Hut ad - The Washington Post",
+            "description": "News of Mikhail Gorbachev's death resurfaced old Pizza Hut and Louis Vuitton ads in which the Soviet Union's final leader starred, and have since become viral memes.",
+            "url": "https://www.washingtonpost.com/nation/2022/08/31/mikhail-gorbachev-pizza-hut-soviet-russia-meme/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CJZ2A2VIPFFGFINXOGRHNU4XFY.jpg&w=1440",
+            "publishedAt": "2022-08-31T18:35:00Z",
+            "content": "Comment on this story\r\nThe commercial opens with a snowy view of Moscows Red Square, where a man and his granddaughter are en route to Pizza Hut. Once inside, other diners gape as Mikhail Gorbachev t… [+7478 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Joe Rossignol",
+            "title": "'iPhone 14 Plus' Rumored as Actual Name of Standard 6.7-Inch Model - MacRumors",
+            "description": "Apple is expected to announce four new iPhone 14 models at its September 7 event, including a standard 6.7-inch model that has been widely referred...",
+            "url": "https://www.macrumors.com/2022/08/31/iphone-14-plus-rumor/",
+            "urlToImage": "https://images.macrumors.com/t/dHRccgRSIjjUrnV_BjADvg9IKlI=/1600x/article-new/2022/08/iPhone-14-Plus-case.jpeg",
+            "publishedAt": "2022-08-31T17:45:47Z",
+            "content": "Apple is expected to announce four new iPhone 14 models at its September 7 event, including a standard 6.7-inch model that has been widely referred to as the \"iPhone 14 Max\" in rumors. However, the d… [+1557 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Ukraine news updates: US says Russia is weaponizing energy - USA TODAY",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3dvcmxkLzIwMjIvMDgvMzEvdWtyYWluZS1ydXNzaWEtd2FyLW5ld3MtdXBkYXRlcy83OTQ3NzIwMDAxL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-08-31T17:41:14Z",
+            "content": null
+        }
+    ]
+}
